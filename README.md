@@ -14,7 +14,7 @@ En conclusión desarrollar un foro es más que un simple ejercicio técnico; es 
 ## Funcionalidades 
 ### Diagrama de casos de uso:
 
-![Diagrama de casos de uso](images/casosdeuso.png) 
+![Diagrama de casos de uso](https://github.com/4meM/appForoEPCC/blob/90f85e3e0d99e12d4eda4470263dede2eeb0192a/images/casosdeuso.png) 
 ### Funcionalidades de Alto Nivel
 **Autenticación y Autorización de Usuarios**
 - Registro de usuarios.
@@ -56,10 +56,10 @@ En conclusión desarrollar un foro es más que un simple ejercicio técnico; es 
 - Elementos de interfaz claros y consistentes.
 
 ## Modelo de Dominio
-![Modelo de dominio](images/ClassDiagram.png) 
+![Modelo de dominio]([images/ClassDiagram.png](https://github.com/4meM/appForoEPCC/blob/90f85e3e0d99e12d4eda4470263dede2eeb0192a/images/ClassDiagram.png)) 
 
 ## Arquitectura y Patrones
-![Arquitectura y Patrones](images/arquitectura.png) 
+![Arquitectura y Patrones]([images/arquitectura.png](https://github.com/4meM/appForoEPCC/blob/90f85e3e0d99e12d4eda4470263dede2eeb0192a/images/arquitectura.png)) 
 
 
 ## Prácticas de codificación limpia aplicadas
